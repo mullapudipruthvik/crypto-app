@@ -1,7 +1,9 @@
 
 export default function Home() {
   return (
-   <> Crypto-APP</>
+   <div>
+      Login
+   </div>
 
   );
 }
